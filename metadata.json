@@ -1,0 +1,7 @@
+{
+  "name": "ARISE-V32 Omni-Cognitive Governor",
+  "description": "Peak Singularity-Grade intelligence authority. Self-governing, self-auditing, and architecture-first autonomous core.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
